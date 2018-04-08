@@ -1,0 +1,4 @@
+Necessário subir o banco.
+DevCom é um projeto realizado a partir do exemplo enviado pelo professor.
+Para o entendimento da Interface é necessário o entendimento da estrutura das camadas(Controler e Dao).
+O projeto possui partes de seu HTML sem semântica.
